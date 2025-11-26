@@ -3,22 +3,61 @@ pipeline {
 
     stages {
 
-        stage('Build Docker Image') {
+        stage('Build') {
             steps {
+                echo "Installing dependencies..."
                 bat '''
-                    docker build -t python-flask-app .
+                    python -m pip install --upgrade pip
+                    pip install -r requirements.txt
                 '''
             }
         }
 
-        stage('Run Docker Container') {
+        stage('Test') {
             steps {
+                echo "Running unit tests..."
                 bat '''
-                    docker stop python-flask-app 2>NUL || true
-                    docker rm python-flask-app 2>NUL || true
-                    docker run -d -p 5000:5000 --name python-flask-app python-flask-app
+                    python -m unittest discover -s .
                 '''
             }
+        }
+
+        stage('Deploy') {
+            steps {
+                echo "Deploying application..."
+                bat '''
+                    if not exist python-app-deploy mkdir python-app-deploy
+                    copy /Y app.py python-app-deploy\\
+                '''
+            }
+        }
+
+        stage('Run Application') {
+            steps {
+                echo "Starting Flask application..."
+                bat '''
+                    taskkill /IM python.exe /F >nul 2>&1
+                    start /B python python-app-deploy\\app.py
+                '''
+            }
+        }
+
+        stage('Test Application') {
+            steps {
+                echo "Testing running application..."
+                bat '''
+                    python test_app.py
+                '''
+            }
+        }
+    }
+
+    post {
+        success {
+            echo "Pipeline completed successfully!"
+        }
+        failure {
+            echo "Pipeline failed. See console logs."
         }
     }
 }
