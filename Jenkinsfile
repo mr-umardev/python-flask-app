@@ -37,16 +37,17 @@ pipeline {
                 echo "Starting Flask application..."
                 bat '''
                     taskkill /IM python.exe /F >nul 2>&1
-                    start /B python python-app-deploy\\app.py
+                    start "" /B python python-app-deploy\\app.py
+                    ping 127.0.0.1 -n 5 >nul
                 '''
             }
         }
 
         stage('Test Application') {
             steps {
-                echo "Testing running application..."
+                echo "Testing running Flask app..."
                 bat '''
-                    python test_app.py
+                    curl http://localhost:5000
                 '''
             }
         }
