@@ -1,156 +1,131 @@
-# Hi there, I'm Mohammed R Umar Farooq! 👋
+<h1 align="center">Hi 👋, I'm Mohammed R Umar Farooq</h1>
+<h3 align="center">Software Developer | Full-Stack | ML Enthusiast</h3>
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/174260485?v=4" alt="mr-umardev" width="200" height="200" style="border-radius: 50%; border: 4px solid #000000;" />
-</div>
+<p align="center">
+  <img src="https://gifdb.com/images/high/programming-coding-is-fun-fiery-louise-belcher-f76463c1e6wnifej.gif" alt="Coding is fun!" width="300"/>
+</p>
 
-## 🚀 About Me
-
-> Hi, I'm Mohammed R Umar Farooq, a passionate software developer with a focus on Data Structures, Algorithms, and full-stack development.
-
-- 🔭 I'm currently working on **exciting projects**
-- 🌱 I'm always **learning and growing** in technology
-- 👯 I'm looking to **collaborate** on innovative ideas
-- 💬 Ask me about **C++, Python, Shell**
-- 📫 How to reach me: **[@mr-umardev](https://github.com/mr-umardev)**
-- ⚡ Fun fact: **I have 36 public repositories with 0 total stars!**
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-</div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mr-umardev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-umardev&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-umardev&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-umardev&theme=high-contrast&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff" alt="GitHub Activity Graph" />
-</div>
-
-## 🏆 Featured Projects
-
-### 🎯 [My-Striver-Journey](https://github.com/mr-umardev/My-Striver-Journey)
-
-> Wassup Brother, still Hustling Huh ?
-
-<div align="left">
-  
-![Stars](https://img.shields.io/github/stars/mr-umardev/My-Striver-Journey?style=social) 
-![Forks](https://img.shields.io/github/forks/mr-umardev/My-Striver-Journey?style=social) 
-![Language](https://img.shields.io/badge/Language-C++-000000?style=flat-square&logoColor=white)
-
-</div>
+<p align="center">
+  🔭 I’m currently working on **Traffic Analysis and Management System**  
+  🌱 I’m learning **Data Structures & Machine Learning Algorithms**  
+  💬 Ask me about **Software Engineering & ML systems**  
+  📫 Reach me at **umarmd2k22@gmail.com**
+</p>
 
 ---
 
-### 🎯 [metrocardx](https://github.com/mr-umardev/metrocardx)
+## 🌐 Connect with Me
 
-> No description available
-
-<div align="left">
-  
-![Stars](https://img.shields.io/github/stars/mr-umardev/metrocardx?style=social) 
-![Forks](https://img.shields.io/github/forks/mr-umardev/metrocardx?style=social) 
-![Language](https://img.shields.io/badge/Language-Python-000000?style=flat-square&logoColor=white)
-
-</div>
-
----
-
-### 🎯 [python-flask-app](https://github.com/mr-umardev/python-flask-app)
-
-> No description available
-
-<div align="left">
-  
-![Stars](https://img.shields.io/github/stars/mr-umardev/python-flask-app?style=social) 
-![Forks](https://img.shields.io/github/forks/mr-umardev/python-flask-app?style=social) 
-![Language](https://img.shields.io/badge/Language-Python-000000?style=flat-square&logoColor=white)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/mohammed-r-umar-farooq">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:umarmd2k22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mr-umardev">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 🎯 [devops-sample-code](https://github.com/mr-umardev/devops-sample-code)
+## 🧠 Engineering Profile
 
-> No description available
-
-<div align="left">
-  
-![Stars](https://img.shields.io/github/stars/mr-umardev/devops-sample-code?style=social) 
-![Forks](https://img.shields.io/github/forks/mr-umardev/devops-sample-code?style=social) 
-![Language](https://img.shields.io/badge/Language-Shell-000000?style=flat-square&logoColor=white)
-
-</div>
+I’m a **Software Developer** with hands-on experience building full-stack applications and ML-powered systems.  
+I enjoy solving complex problems, architecting scalable solutions, and creating meaningful products.
 
 ---
 
-### 🎯 [delivery_monitoring](https://github.com/mr-umardev/delivery_monitoring)
+## 🚀 Featured Projects
 
-> No description available
+### 🛠 Traffic Analysis & Management System  
+Real-time traffic monitoring and optimization system using computer vision and analytics.
 
-<div align="left">
-  
-![Stars](https://img.shields.io/github/stars/mr-umardev/delivery_monitoring?style=social) 
-![Forks](https://img.shields.io/github/forks/mr-umardev/delivery_monitoring?style=social) 
-![Language](https://img.shields.io/badge/Language-Python-000000?style=flat-square&logoColor=white)
+### 🛍 The Style Loft  
+Full-stack e-commerce platform (MERN) with secure authentication and deployment.
 
-</div>
+### 🧠 Feelometric  
+Sentiment analysis web app using NLP and Streamlit.
 
----
+### 🌐 ImmersaX  
+Interactive virtual experience platform built with React & Tailwind.
 
-### 🎯 [DevOps-Lab-Exam](https://github.com/mr-umardev/DevOps-Lab-Exam)
-
-> No description available
-
-<div align="left">
-  
-![Stars](https://img.shields.io/github/stars/mr-umardev/DevOps-Lab-Exam?style=social) 
-![Forks](https://img.shields.io/github/forks/mr-umardev/DevOps-Lab-Exam?style=social) 
-![Language](https://img.shields.io/badge/Language-Python-000000?style=flat-square&logoColor=white)
-
-</div>
-
-## 📈 Profile Statistics
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=mr-umardev&label=Profile%20views&color=000000&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/mr-umardev?label=Followers&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/mr-umardev?label=Stars&style=social)
-
-</div>
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mr-umardev)
-
-
-
-</div>
+➡️ Explore more in my *pinned repositories* on GitHub.
 
 ---
 
-<div align="center">
+## 💻 Tech Stack
 
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=000000&text_color=ffffff)
+### 🧩 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**⭐ Star some repositories if you find them interesting!**
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</div>
+### ⚙️ Backend & Databases
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📊 Data / ML
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-White?style=for-the-badge&logo=opencv&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-umardev&theme=cobalt&show_icons=true&hide_border=false" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mr-umardev&theme=cobalt&hide_border=false" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-umardev&theme=cobalt&layout=compact&hide_border=false"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mr-umardev&theme=algolia&margin-w=8"/>
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mr-umardev/mr-umardev/output/snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=mr-umardev&icon=8&color=0"/>
+</p>
