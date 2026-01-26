@@ -30,27 +30,27 @@ I am an aspiring **Software Developer** passionate about building impactful appl
 <p align="center">
 
 <a href="https://www.linkedin.com/in/mohammed-r-umar-farooq/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" />
-</a>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <a href="mailto:umarmd2k22@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" />
-</a>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <a href="https://leetcode.com/u/Mellow3/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" />
-</a>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
 
 <a href="https://www.codewars.com/users/mr-umardev" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codewars.svg" width="48" />
-</a>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/>
+</a>
 
 <a href="https://www.codechef.com/users/md_r_umar" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" width="48" />
-</a>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
 
 <a href="https://www.geeksforgeeks.org/profile/umarmd01" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/geeksforgeeks.svg" width="48" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </p>
