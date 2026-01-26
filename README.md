@@ -20,6 +20,7 @@ I am an aspiring **Software Developer** passionate about building impactful appl
 ---
 
 ## ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
@@ -32,6 +33,7 @@ I am an aspiring **Software Developer** passionate about building impactful appl
 ---
 
 ## 💻 Tech Stack
+
 ### 👨‍💻 Programming & Core
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -56,19 +58,19 @@ I am an aspiring **Software Developer** passionate about building impactful appl
 <tr>
 
 <td align="center" width="260">
-<img src="trophies/ChatGPT Image Jan 26, 2026, 06_07_32 PM.png" width="180"/><br/><b>Bug Hunter</b>
+<img src="trophies/bug-hunter.png" width="180"/><br/><b>Bug Hunter</b>
 </td>
 
 <td align="center" width="260">
-<img src="trophies/ChatGPT Image Jan 26, 2026, 06_07_44 PM.png" width="180"/><br/><b>Code Master</b>
+<img src="trophies/code-master.png" width="180"/><br/><b>Code Master</b>
 </td>
 
 <td align="center" width="260">
-<img src="trophies/Screenshot 2026-01-26_181628-removebg-preview.png" width="180"/><br/><b>Merge Master</b>
+<img src="trophies/merge-master.png" width="180"/><br/><b>Merge Master</b>
 </td>
 
 <td align="center" width="260">
-<img src="trophies/Screenshot 2026-01-26_181617-removebg-preview.png" width="180"/><br/><b>Commit Champion</b>
+<img src="trophies/commit-champion.png" width="180"/><br/><b>Commit Champion</b>
 </td>
 
 </tr>
@@ -76,15 +78,15 @@ I am an aspiring **Software Developer** passionate about building impactful appl
 <tr>
 
 <td align="center" width="260">
-<img src="trophies/Screenshot 2026-01-26_181622-removebg-preview.png" width="180"/><br/><b>Error Crusher</b>
+<img src="trophies/error-crusher.png" width="180"/><br/><b>Error Crusher</b>
 </td>
 
 <td align="center" width="260">
-<img src="trophies/Screenshot 2026-01-26_181634-removebg-preview.png" width="180"/><br/><b>Pull Request Pro</b>
+<img src="trophies/pull-request-pro.png" width="180"/><br/><b>Pull Request Pro</b>
 </td>
 
 <td align="center" width="260">
-<img src="trophies/Screenshot 2026-01-26 181643-Photoroom.png" width="180"/><br/><b>Issue Resolver</b>
+<img src="trophies/issue-resolver.png" width="180"/><br/><b>Issue Resolver</b>
 </td>
 
 </tr>
@@ -95,3 +97,5 @@ I am an aspiring **Software Developer** passionate about building impactful appl
 [![](https://visitcount.itsvg.in/api?id=mr-umardev&icon=8&color=0)](https://visitcount.itsvg.in)
 
 <img src="https://raw.githubusercontent.com/mr-umardev/mr-umardev/output/snake.svg" alt="Snake animation" />
+
+<!-- Trophy cabinet fixed to clean filenames -->
