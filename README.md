@@ -1,14 +1,10 @@
-<!-- HERO HEADER -->
-<table width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" background="https://c.tenor.com/XgAG1LXjpcYAAAAd/apartamento-qualquer-banner-banner.gif" style="background-size: cover; background-position: center; padding: 60px 20px;">
-      <h1 style="color: white; font-size: 42px; margin: 0;">Hi 👋, I'm Mohammed R Umar Farooq</h1>
-      <h3 style="color: #e0e0e0; margin-top: 10px;">
-        Software Developer | Full-Stack | ML Enthusiast
-      </h3>
-    </td>
-  </tr>
-</table>
+<!-- HERO GIF -->
+<p align="center">
+  <img src="https://c.tenor.com/XgAG1LXjpcYAAAAd/apartamento-qualquer-banner-banner.gif" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Mohammed R Umar Farooq</h1>
+<h3 align="center">Software Developer | Full-Stack Engineer | Applied Machine Learning</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mohammed-r-umar-farooq">
@@ -26,11 +22,11 @@
 
 I’m a **Software Developer from Bengaluru, India**, focused on building **scalable applications, real-time systems, and intelligent software products**.
 
-- 🔭 Building a **Traffic Analysis & Management System**  
-- 🧠 Strong in **Data Structures, backend engineering, and applied ML**  
-- 🛠️ Interested in **system design, performance, and real-world problem solving**  
-- 💬 Ask me about **Software Engineering, Full-Stack, DSA, and ML systems**  
-- 📫 **umarmd2k22@gmail.com**
+- 🔭 Developing a **Traffic Analysis & Management System**  
+- 🧠 Strong foundation in **Data Structures, backend engineering, and applied ML**  
+- 🛠️ Interested in **system design, performance optimization, and product engineering**  
+- 💬 Ask me about **Software Engineering, Full-Stack Development, DSA, and ML systems**  
+- 📫 Reach me at **umarmd2k22@gmail.com**
 
 ---
 
@@ -40,7 +36,7 @@ I’m a **Software Developer from Bengaluru, India**, focused on building **scal
 - Backend systems & APIs  
 - Data structures & algorithmic problem solving  
 - Real-time systems & automation  
-- Machine learning for real products  
+- Machine learning for real-world applications  
 - Clean architecture & performance optimization  
 
 ---
@@ -76,6 +72,7 @@ Interactive experience platform built with React and Tailwind.
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### ⚙️ Backend & Databases
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -91,6 +88,7 @@ Interactive experience platform built with React and Tailwind.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
