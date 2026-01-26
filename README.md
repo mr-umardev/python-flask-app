@@ -25,10 +25,35 @@ I am an aspiring **Software Developer** passionate about building impactful appl
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20R%20Umar%20Farooq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-r-umar-farooq)
-[![Email](https://img.shields.io/badge/Gmail-umarmd2k22@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umarmd2k22@gmail.com)
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mohammed-r-umar-farooq/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:umarmd2k22@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/Mellow3/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.codewars.com/users/mr-umardev" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codewars.svg" width="48" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.codechef.com/users/md_r_umar" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" width="48" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.geeksforgeeks.org/profile/umarmd01" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/geeksforgeeks.svg" width="48" />
+</a>
+
+</p>
 
 ---
 
@@ -97,5 +122,3 @@ I am an aspiring **Software Developer** passionate about building impactful appl
 [![](https://visitcount.itsvg.in/api?id=mr-umardev&icon=8&color=0)](https://visitcount.itsvg.in)
 
 <img src="https://raw.githubusercontent.com/mr-umardev/mr-umardev/output/snake.svg" alt="Snake animation" />
-
-<!-- GitHub stats enlarged -->
