@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://c.tenor.com/XgAG1LXjpcYAAAAd/apartamento-qualquer-banner-banner.gif" width="40%" />
+  <img src="https://c.tenor.com/XgAG1LXjpcYAAAAd/apartamento-qualquer-banner-banner.gif" width="85%" height="320"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohammed R Umar Farooq</h1>
@@ -10,6 +10,11 @@
 ## 💫 About Me
 
 I am an aspiring **Software Developer** passionate about building impactful applications and continuously improving my problem-solving and engineering skills.
+
+- 🔭 Currently working on **Traffic Analysis and Management System**
+- 🌱 Currently learning **Data Structures & Machine Learning Algorithms**
+- 💬 Ask me about **DSA, Full-Stack Development, and Machine Learning**
+- 📫 Reach me at: **umarmd2k22@gmail.com**
 - ⚡ Fun fact: *Life gives one chance — make it count.*
 
 ---
