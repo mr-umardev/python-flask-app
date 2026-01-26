@@ -19,6 +19,12 @@ I am an aspiring **Software Developer** passionate about building impactful appl
 
 ---
 
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-r-umar-farooq)
@@ -72,18 +78,6 @@ I am an aspiring **Software Developer** passionate about building impactful appl
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=mr-umardev&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=mr-umardev&limit=5&theme=buefy&combine_all_yearly_contributions=true)
 
 ---
 
