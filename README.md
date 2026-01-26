@@ -1,20 +1,14 @@
-<h1 align="center">Hi 👋, I'm Mohammed R Umar Farooq</h1>
-<h3 align="center">Software Developer | Full-Stack | ML Enthusiast</h3>
-
-<p align="center">
-  <img src="https://gifdb.com/images/high/programming-coding-is-fun-fiery-louise-belcher-f76463c1e6wnifej.gif" alt="Coding is fun!" width="300"/>
-</p>
-
-<p align="center">
-  🔭 I’m currently working on **Traffic Analysis and Management System**  
-  🌱 I’m learning **Data Structures & Machine Learning Algorithms**  
-  💬 Ask me about **Software Engineering & ML systems**  
-  📫 Reach me at **umarmd2k22@gmail.com**
-</p>
-
----
-
-## 🌐 Connect with Me
+<!-- HERO HEADER -->
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" background="https://c.tenor.com/XgAG1LXjpcYAAAAd/apartamento-qualquer-banner-banner.gif" style="background-size: cover; background-position: center; padding: 60px 20px;">
+      <h1 style="color: white; font-size: 42px; margin: 0;">Hi 👋, I'm Mohammed R Umar Farooq</h1>
+      <h3 style="color: #e0e0e0; margin-top: 10px;">
+        Software Developer | Full-Stack | ML Enthusiast
+      </h3>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://linkedin.com/in/mohammed-r-umar-farooq">
@@ -23,41 +17,53 @@
   <a href="mailto:umarmd2k22@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/mr-umardev">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=mr-umardev&style=for-the-badge&color=0e75b6"/>
 </p>
 
 ---
 
-## 🧠 Engineering Profile
+## 💫 About Me
 
-I’m a **Software Developer** with hands-on experience building full-stack applications and ML-powered systems.  
-I enjoy solving complex problems, architecting scalable solutions, and creating meaningful products.
+I’m a **Software Developer from Bengaluru, India**, focused on building **scalable applications, real-time systems, and intelligent software products**.
+
+- 🔭 Building a **Traffic Analysis & Management System**  
+- 🧠 Strong in **Data Structures, backend engineering, and applied ML**  
+- 🛠️ Interested in **system design, performance, and real-world problem solving**  
+- 💬 Ask me about **Software Engineering, Full-Stack, DSA, and ML systems**  
+- 📫 **umarmd2k22@gmail.com**
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Engineering Focus
 
-### 🛠 Traffic Analysis & Management System  
-Real-time traffic monitoring and optimization system using computer vision and analytics.
+- Full-stack product development  
+- Backend systems & APIs  
+- Data structures & algorithmic problem solving  
+- Real-time systems & automation  
+- Machine learning for real products  
+- Clean architecture & performance optimization  
 
-### 🛍 The Style Loft  
-Full-stack e-commerce platform (MERN) with secure authentication and deployment.
+---
 
-### 🧠 Feelometric  
-Sentiment analysis web app using NLP and Streamlit.
+## 🏗️ Featured Projects
 
-### 🌐 ImmersaX  
-Interactive virtual experience platform built with React & Tailwind.
+🚦 **Traffic Analysis & Management System**  
+Real-time traffic monitoring and optimization using computer vision & analytics.
 
-➡️ Explore more in my *pinned repositories* on GitHub.
+🛒 **The Style Loft**  
+MERN e-commerce platform with authentication, dashboards, and cloud deployment.
+
+🧠 **Feelometric**  
+ML-powered sentiment analysis platform using NLP and Streamlit.
+
+🎯 **ImmersaX**  
+Interactive experience platform built with React and Tailwind.
 
 ---
 
 ## 💻 Tech Stack
 
-### 🧩 Languages
+### 🚀 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -66,8 +72,8 @@ Interactive virtual experience platform built with React & Tailwind.
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -84,28 +90,19 @@ Interactive virtual experience platform built with React & Tailwind.
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-White?style=for-the-badge&logo=opencv&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=black)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-umardev&theme=cobalt&show_icons=true&hide_border=false" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mr-umardev&theme=cobalt&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-umardev&theme=cobalt&show_icons=true" height="160"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mr-umardev&theme=cobalt" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-umardev&theme=cobalt&layout=compact&hide_border=false"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mr-umardev&theme=algolia&margin-w=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-umardev&layout=compact&theme=cobalt"/>
 </p>
 
 ---
@@ -113,15 +110,7 @@ Interactive virtual experience platform built with React & Tailwind.
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mr-umardev/mr-umardev/output/snake.svg" alt="Snake animation"/>
-</p>
-
----
-
-## ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://raw.githubusercontent.com/mr-umardev/mr-umardev/output/snake.svg"/>
 </p>
 
 ---
