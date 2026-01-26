@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://c.tenor.com/XgAG1LXjpcYAAAAd/apartamento-qualquer-banner-banner.gif" width="80%" />
+  <img src="https://c.tenor.com/XgAG1LXjpcYAAAAd/apartamento-qualquer-banner-banner.gif" width="40%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohammed R Umar Farooq</h1>
