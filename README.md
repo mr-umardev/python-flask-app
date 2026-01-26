@@ -76,24 +76,43 @@ I am an aspiring **Software Developer** passionate about building impactful appl
 
 ## 🏆 Trophy Cabinet
 
-<p align="center">
+<table align="center">
+<tr>
 
-<img src="https://img.shields.io/badge/🏆%20Code%20Warrior-DSA%20%26%20Problem%20Solving-ffbf00?style=for-the-badge&logo=codeforces&logoColor=black"/>
-<img src="https://img.shields.io/badge/🚀%20Project%20Builder-Full--Stack%20Developer-7f5af0?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/🤖%20AI%20Explorer-Machine%20Learning-00e5ff?style=for-the-badge&logo=tensorflow&logoColor=black"/>
+<td align="center" width="180">
+<img src="trophies/ChatGPT Image Jan 26, 2026, 06_07_32 PM.png" width="110"/><br/><b>Bug Hunter</b>
+</td>
 
-<br/><br/>
+<td align="center" width="180">
+<img src="trophies/ChatGPT Image Jan 26, 2026, 06_07_44 PM.png" width="110"/><br/><b>Code Master</b>
+</td>
 
-<img src="https://img.shields.io/badge/🔥%20Consistent%20Coder-GitHub%20Streak-ff005c?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/🛠%20Tech%20Stack%20Master-25%2B%20Tools-00f5d4?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>
-<img src="https://img.shields.io/badge/🌍%20Open%20Source%20Mind-Contributor-90dbf4?style=for-the-badge&logo=opensourceinitiative&logoColor=black"/>
+<td align="center" width="180">
+<img src="trophies/Screenshot 2026-01-26 180447.png" width="110"/><br/><b>Commit Champion</b>
+</td>
 
-<br/><br/>
+<td align="center" width="180">
+<img src="trophies/Screenshot 2026-01-26 180456.png" width="110"/><br/><b>Error Crusher</b>
+</td>
 
-<img src="https://img.shields.io/badge/⚡%20Fast%20Learner-Continuous%20Growth-f72585?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/🧠%20Creative%20Engineer-Logic%20%26%20Design-ffd166?style=for-the-badge&logo=figma&logoColor=black"/>
+</tr>
 
-</p>
+<tr>
+
+<td align="center" width="180">
+<img src="trophies/Screenshot 2026-01-26 180506.png" width="110"/><br/><b>Merge Master</b>
+</td>
+
+<td align="center" width="180">
+<img src="trophies/Screenshot 2026-01-26 180514.png" width="110"/><br/><b>Pull Request Pro</b>
+</td>
+
+<td align="center" width="180">
+<img src="trophies/Screenshot 2026-01-26 180533.png" width="110"/><br/><b>Issue Resolver</b>
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -101,4 +120,4 @@ I am an aspiring **Software Developer** passionate about building impactful appl
 
 <img src="https://raw.githubusercontent.com/mr-umardev/mr-umardev/output/snake.svg" alt="Snake animation" />
 
-<!-- Shiny trophy cabinet with flashy modern badges -->
+<!-- Trophy cabinet now uses your real shiny badge images -->
