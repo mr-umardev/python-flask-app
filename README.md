@@ -90,15 +90,15 @@ Interactive experience platform built with React and Tailwind.
 
 ---
 
-## 📊 GitHub Stats (Gold Theme)
+## 👑 GitHub Stats (Royal Gold Theme)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-umardev&show_icons=true&theme=gruvbox&title_color=FFD700&icon_color=FFD700" height="160"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mr-umardev&theme=gruvbox&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-umardev&show_icons=true&bg_color=0d1117&title_color=FFD700&text_color=F5DEB3&icon_color=FFD700&ring_color=FFD700&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=mr-umardev&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=F5DEB3&dates=F5DEB3&sideNums=FFD700&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-umardev&layout=compact&theme=gruvbox&title_color=FFD700"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-umardev&layout=compact&bg_color=0d1117&title_color=FFD700&text_color=F5DEB3&hide_border=true"/>
 </p>
 
 ---
