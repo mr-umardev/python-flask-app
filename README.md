@@ -10,11 +10,6 @@
 ## 💫 About Me
 
 I am an aspiring **Software Developer** passionate about building impactful applications and continuously improving my problem-solving and engineering skills.
-
-- 🔭 Currently working on **Traffic Analysis and Management System**
-- 🌱 Currently learning **Data Structures & Machine Learning Algorithms**
-- 💬 Ask me about **DSA, Full-Stack Development, and Machine Learning**
-- 📫 Reach me at: **umarmd2k22@gmail.com**
 - ⚡ Fun fact: *Life gives one chance — make it count.*
 
 ---
