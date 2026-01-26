@@ -62,9 +62,9 @@ I am an aspiring **Software Developer** passionate about building impactful appl
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-umardev&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" width="33%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mr-umardev&theme=cobalt&hide_border=false" width="33%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-umardev&theme=cobalt&hide_border=false&layout=compact" width="25%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-umardev&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" width="28%" style="margin: 0 18px;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mr-umardev&theme=cobalt&hide_border=false" width="28%" style="margin: 0 18px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-umardev&theme=cobalt&hide_border=false&layout=compact" width="28%" style="margin: 0 18px;" />
 </p>
 
 ---
