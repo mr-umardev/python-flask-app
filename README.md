@@ -75,9 +75,22 @@ I am an aspiring **Software Developer** passionate about building impactful appl
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Developer Trophies & Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=mr-umardev&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+
+<img src="https://img.shields.io/badge/🔥%20Consistent%20Coder-Daily%20GitHub%20Activity-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀%20Project%20Builder-Full--Stack%20%26%20AI-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠%20Problem%20Solver-DSA%20%26%20Algorithms-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖%20AI%20Explorer-Machine%20Learning-success?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/⚡%20Fast%20Learner-Continuous%20Growth-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🛠%20Tech%20Stack-25%2B%20Tools%20%26%20Frameworks-informational?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌍%20Open%20Source-GitHub%20Contributor-9cf?style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -85,4 +98,4 @@ I am an aspiring **Software Developer** passionate about building impactful appl
 
 <img src="https://raw.githubusercontent.com/mr-umardev/mr-umardev/output/snake.svg" alt="Snake animation" />
 
-<!-- Proudly crafted to reflect professionalism and consistency -->
+<!-- Custom trophies system implemented. Stable, professional, and fully controllable. -->
