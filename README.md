@@ -79,36 +79,36 @@ I am an aspiring **Software Developer** passionate about building impactful appl
 <table align="center">
 <tr>
 
-<td align="center" width="180">
+<td align="center" width="220">
 <img src="trophies/ChatGPT Image Jan 26, 2026, 06_07_32 PM.png" width="150"/><br/><b>Bug Hunter</b>
 </td>
 
-<td align="center" width="180">
+<td align="center" width="220">
 <img src="trophies/ChatGPT Image Jan 26, 2026, 06_07_44 PM.png" width="150"/><br/><b>Code Master</b>
 </td>
 
-<td align="center" width="180">
-<img src="trophies/Screenshot 2026-01-26 180447.png" width="150"/><br/><b>Commit Champion</b>
+<td align="center" width="220">
+<img src="trophies/Screenshot 2026-01-26 181617.png" width="150"/><br/><b>Commit Champion</b>
 </td>
 
-<td align="center" width="180">
-<img src="trophies/Screenshot 2026-01-26 180456.png" width="150"/><br/><b>Error Crusher</b>
+<td align="center" width="220">
+<img src="trophies/Screenshot 2026-01-26 181622.png" width="150"/><br/><b>Error Crusher</b>
 </td>
 
 </tr>
 
 <tr>
 
-<td align="center" width="180">
-<img src="trophies/Screenshot 2026-01-26 180506.png" width="110"/><br/><b>Merge Master</b>
+<td align="center" width="220">
+<img src="trophies/Screenshot 2026-01-26 181628.png" width="150"/><br/><b>Merge Master</b>
 </td>
 
-<td align="center" width="180">
-<img src="trophies/Screenshot 2026-01-26 180514.png" width="110"/><br/><b>Pull Request Pro</b>
+<td align="center" width="220">
+<img src="trophies/Screenshot 2026-01-26 181634.png" width="150"/><br/><b>Pull Request Pro</b>
 </td>
 
-<td align="center" width="180">
-<img src="trophies/Screenshot 2026-01-26 180533.png" width="110"/><br/><b>Issue Resolver</b>
+<td align="center" width="220">
+<img src="trophies/Screenshot 2026-01-26 181643.png" width="150"/><br/><b>Issue Resolver</b>
 </td>
 
 </tr>
@@ -120,4 +120,4 @@ I am an aspiring **Software Developer** passionate about building impactful appl
 
 <img src="https://raw.githubusercontent.com/mr-umardev/mr-umardev/output/snake.svg" alt="Snake animation" />
 
-<!-- Trophy cabinet now uses your real shiny badge images -->
+<!-- Trophy cabinet updated with your actual shiny badge files -->
