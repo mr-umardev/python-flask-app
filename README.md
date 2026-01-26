@@ -57,11 +57,11 @@ I am an aspiring **Software Developer** passionate about building impactful appl
 <table align="center">
 <tr>
 
-<td align="center" width="260">
+<td align="center" width="460">
 <img src="trophies/bug-hunter.png" width="180"/><br/><b>Bug Hunter</b>
 </td>
 
-<td align="center" width="260">
+<td align="center" width="460">
 <img src="trophies/code-master.png" width="180"/><br/><b>Code Master</b>
 </td>
 
