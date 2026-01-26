@@ -57,14 +57,6 @@ I am an aspiring **Software Developer** passionate about building impactful appl
 
 ---
 
-## 💻 Tech Stack
-
-### 👨‍💻 Programming & Core
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
 ---
 
 ## 📊 GitHub Stats
