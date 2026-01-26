@@ -72,7 +72,6 @@ Interactive experience platform built with React and Tailwind.
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### ⚙️ Backend & Databases
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -88,11 +87,10 @@ Interactive experience platform built with React and Tailwind.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats (Gold / Medal Theme)
+## 📊 GitHub Stats (Gold Theme)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mr-umardev&show_icons=true&theme=gruvbox&title_color=FFD700&icon_color=FFD700" height="160"/>
@@ -108,7 +106,7 @@ Interactive experience platform built with React and Tailwind.
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mr-umardev/mr-umardev/output/snake.svg"/>
+  <img src="https://raw.githubusercontent.com/mr-umardev/mr-umardev/output/snake.svg" alt="snake animation"/>
 </p>
 
 ---
