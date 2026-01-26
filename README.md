@@ -54,43 +54,33 @@ I am an aspiring **Software Developer** passionate about building impactful appl
 
 ## 🏆 Trophy Cabinet
 
-<table align="center">
-<tr>
+<p align="center">
+  <img src="trophies/bug-hunter.png" width="220" />
+  <img src="trophies/code-master.png" width="220" />
+  <img src="trophies/merge-master.png" width="220" />
+  <img src="trophies/commit-champion.png" width="220" />
+</p>
 
-<td align="center" width="400">
-<img src="trophies/bug-hunter.png" width="480"/><br/><b>Bug Hunter</b>
-</td>
+<p align="center">
+  <b>Bug Hunter</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Code Master</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Merge Master</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Commit Champion</b>
+</p>
 
-<td align="center" width="400">
-<img src="trophies/code-master.png" width="480"/><br/><b>Code Master</b>
-</td>
+<br/>
 
-<td align="center" width="260">
-<img src="trophies/merge-master.png" width="180"/><br/><b>Merge Master</b>
-</td>
+<p align="center">
+  <img src="trophies/error-crusher.png" width="220" />
+  <img src="trophies/pull-request-pro.png" width="220" />
+  <img src="trophies/issue-resolver.png" width="220" />
+</p>
 
-<td align="center" width="260">
-<img src="trophies/commit-champion.png" width="180"/><br/><b>Commit Champion</b>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="260">
-<img src="trophies/error-crusher.png" width="180"/><br/><b>Error Crusher</b>
-</td>
-
-<td align="center" width="260">
-<img src="trophies/pull-request-pro.png" width="180"/><br/><b>Pull Request Pro</b>
-</td>
-
-<td align="center" width="260">
-<img src="trophies/issue-resolver.png" width="180"/><br/><b>Issue Resolver</b>
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <b>Error Crusher</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Pull Request Pro</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Issue Resolver</b>
+</p>
 
 ---
 
@@ -98,4 +88,4 @@ I am an aspiring **Software Developer** passionate about building impactful appl
 
 <img src="https://raw.githubusercontent.com/mr-umardev/mr-umardev/output/snake.svg" alt="Snake animation" />
 
-<!-- GitHub stats enlarged -->
+<!-- Borderless floating trophy cabinet -->
