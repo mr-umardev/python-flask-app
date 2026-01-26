@@ -79,36 +79,36 @@ I am an aspiring **Software Developer** passionate about building impactful appl
 <table align="center">
 <tr>
 
-<td align="center" width="220">
-<img src="trophies/ChatGPT Image Jan 26, 2026, 06_07_32 PM.png" width="150"/><br/><b>Bug Hunter</b>
+<td align="center" width="240">
+<img src="trophies/ChatGPT Image Jan 26, 2026, 06_07_32 PM.png" width="180"/><br/><b>Bug Hunter</b>
 </td>
 
-<td align="center" width="220">
-<img src="trophies/ChatGPT Image Jan 26, 2026, 06_07_44 PM.png" width="150"/><br/><b>Code Master</b>
+<td align="center" width="240">
+<img src="trophies/ChatGPT Image Jan 26, 2026, 06_07_44 PM.png" width="180"/><br/><b>Code Master</b>
 </td>
 
-<td align="center" width="220">
-<img src="trophies/Screenshot 2026-01-26 181617.png" width="150"/><br/><b>Commit Champion</b>
+<td align="center" width="240">
+<img src="trophies/Screenshot 2026-01-26 181643-Photoroom.png" width="180"/><br/><b>Issue Resolver</b>
 </td>
 
-<td align="center" width="220">
-<img src="trophies/Screenshot 2026-01-26 181622.png" width="150"/><br/><b>Error Crusher</b>
+<td align="center" width="240">
+<img src="trophies/Screenshot 2026-01-26_181617-removebg-preview.png" width="180"/><br/><b>Commit Champion</b>
 </td>
 
 </tr>
 
 <tr>
 
-<td align="center" width="220">
-<img src="trophies/Screenshot 2026-01-26 181628.png" width="150"/><br/><b>Merge Master</b>
+<td align="center" width="240">
+<img src="trophies/Screenshot 2026-01-26_181622-removebg-preview.png" width="180"/><br/><b>Error Crusher</b>
 </td>
 
-<td align="center" width="220">
-<img src="trophies/Screenshot 2026-01-26 181634.png" width="150"/><br/><b>Pull Request Pro</b>
+<td align="center" width="240">
+<img src="trophies/Screenshot 2026-01-26_181628-removebg-preview.png" width="180"/><br/><b>Merge Master</b>
 </td>
 
-<td align="center" width="220">
-<img src="trophies/Screenshot 2026-01-26 181643.png" width="150"/><br/><b>Issue Resolver</b>
+<td align="center" width="240">
+<img src="trophies/Screenshot 2026-01-26_181634-removebg-preview.png" width="180"/><br/><b>Pull Request Pro</b>
 </td>
 
 </tr>
@@ -120,4 +120,4 @@ I am an aspiring **Software Developer** passionate about building impactful appl
 
 <img src="https://raw.githubusercontent.com/mr-umardev/mr-umardev/output/snake.svg" alt="Snake animation" />
 
-<!-- Trophy cabinet updated with your actual shiny badge files -->
+<!-- Trophy cabinet updated with transparent shiny badges (large size) -->
