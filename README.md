@@ -75,22 +75,61 @@ I am an aspiring **Software Developer** passionate about building impactful appl
 
 ---
 
-## 🏆 Developer Trophies & Achievements
+## 🏆 Trophy Showcase
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="180">
+<img src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png" width="70"/><br/>
+<b>Code Warrior</b><br/>
+<sub>Consistent problem solver</sub>
+</td>
 
-<img src="https://img.shields.io/badge/🔥%20Consistent%20Coder-Daily%20GitHub%20Activity-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀%20Project%20Builder-Full--Stack%20%26%20AI-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🧠%20Problem%20Solver-DSA%20%26%20Algorithms-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🤖%20AI%20Explorer-Machine%20Learning-success?style=for-the-badge"/>
+<td align="center" width="180">
+<img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="70"/><br/>
+<b>Project Builder</b><br/>
+<sub>Full-stack developer</sub>
+</td>
 
-<br/><br/>
+<td align="center" width="180">
+<img src="https://cdn-icons-png.flaticon.com/512/863/863823.png" width="70"/><br/>
+<b>AI Explorer</b><br/>
+<sub>Machine learning & vision</sub>
+</td>
 
-<img src="https://img.shields.io/badge/⚡%20Fast%20Learner-Continuous%20Growth-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🛠%20Tech%20Stack-25%2B%20Tools%20%26%20Frameworks-informational?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🌍%20Open%20Source-GitHub%20Contributor-9cf?style=for-the-badge"/>
+<td align="center" width="180">
+<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="70"/><br/>
+<b>Open Source Mind</b><br/>
+<sub>GitHub contributor</sub>
+</td>
+</tr>
 
-</p>
+<tr>
+<td align="center" width="180">
+<img src="https://cdn-icons-png.flaticon.com/512/190/190411.png" width="70"/><br/>
+<b>Fast Learner</b><br/>
+<sub>Adapts & evolves quickly</sub>
+</td>
+
+<td align="center" width="180">
+<img src="https://cdn-icons-png.flaticon.com/512/921/921347.png" width="70"/><br/>
+<b>Tech Stack Master</b><br/>
+<sub>25+ tools & frameworks</sub>
+</td>
+
+<td align="center" width="180">
+<img src="https://cdn-icons-png.flaticon.com/512/2621/2621091.png" width="70"/><br/>
+<b>Creative Engineer</b><br/>
+<sub>Design + logic balance</sub>
+</td>
+
+<td align="center" width="180">
+<img src="https://cdn-icons-png.flaticon.com/512/4325/4325945.png" width="70"/><br/>
+<b>Future Architect</b><br/>
+<sub>Building impactful systems</sub>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -98,4 +137,4 @@ I am an aspiring **Software Developer** passionate about building impactful appl
 
 <img src="https://raw.githubusercontent.com/mr-umardev/mr-umardev/output/snake.svg" alt="Snake animation" />
 
-<!-- Custom trophies system implemented. Stable, professional, and fully controllable. -->
+<!-- Flashy custom trophy system with icon logos + badge names -->
