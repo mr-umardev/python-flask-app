@@ -58,7 +58,7 @@ I am an aspiring **Software Developer** passionate about building impactful appl
 <tr>
 
 <td align="center" width="460">
-<img src="trophies/bug-hunter.png" width="180"/><br/><b>Bug Hunter</b>
+<img src="trophies/bug-hunter.png" width="400"/><br/><b>Bug Hunter</b>
 </td>
 
 <td align="center" width="460">
